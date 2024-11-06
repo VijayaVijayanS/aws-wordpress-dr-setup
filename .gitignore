@@ -1,0 +1,8 @@
+# Ignore configuration with sensitive data
+wp-config.php
+*.pem
+*.key
+secrets/
+# Ignore local or temporary files
+.DS_Store
+*.log
