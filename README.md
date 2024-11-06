@@ -38,7 +38,7 @@ The AWS WordPress project aims to provide a scalable and reliable WordPress setu
 
 ### Architecture Diagram
 
-For a detailed visual representation of the architecture, refer to the CloudCraft diagram: [View Architecture Diagram](https://app.cloudcraft.co/view/a99eb38e-934c-4653-8cc9-e8d7a8a1f942?key=23bc7cd1-98a7-4ed6-97a9-8948312ed555)
+For a detailed visual representation of the architecture, refer to the CloudCraft diagram: [View Architecture Diagram](https://app.cloudcraft.co/view/a99eb38e-934c-4653-8cc9-e8d7a8a1f942?key=74f5137b-e604-477c-bc2b-c13370ff2133)
 
 
 ## Setup Steps
